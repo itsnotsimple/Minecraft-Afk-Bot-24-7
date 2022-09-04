@@ -1,7 +1,7 @@
 {
 	"ip":"ka6vota.aternos.me:53744",
 	"port": 53744,
-	"name": "Ka6vota",
+	"name": "bot",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register 696969",
