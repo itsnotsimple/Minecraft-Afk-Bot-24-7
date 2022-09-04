@@ -39,14 +39,14 @@ bot.on('login',function(){
 	   task(i); 
 	} 
 	console.log("Logged In")
-	bot.chat("hello");
+	bot.chat("КАК СТЕ КАШВИ");
 });
   
 function task(i) { 
 	
   setTimeout(function() { 
     if(first == true){
-	bot.chat("SAMO ETZ I TESNI")
+	bot.chat("САМО ЕТЗ И ТЕСНИ")
 	first = false;
 	}
 	else{
