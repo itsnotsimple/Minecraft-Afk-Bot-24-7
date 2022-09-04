@@ -50,7 +50,7 @@ function task(i) {
 	first = false;
 	}
 	else{
-		bot.chat("AIDE KURVI")
+		bot.chat("САМО ЕТЗ И ТЕСНИ")
 		first = true;
 	}
   }, 3600000 * i); 
