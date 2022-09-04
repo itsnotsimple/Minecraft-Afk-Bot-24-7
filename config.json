@@ -3,7 +3,7 @@
 	"port": 53744,
 	"name": "bot",
 	"auto-night-skip":"false",
-	"login-enabled":"true",
+	"login-enabled":"false",
 	"register-cmd":"/register 696969",
 	"login-cmd":"/login 696969"
 }
